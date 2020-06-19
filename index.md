@@ -14,3 +14,5 @@ title: Merlin Schumacher
 [Zebrabutter](https://www.zebrabutter.net){:target="_blank"} – Online-Magazin zu verschiedenen Themen
 
 [Diplomarbeit – Die Form des Pop](assets/MerlinSchumacher_DieFormdesPop.pdf){:target="_blank"} – Eine Demonstration und Reflexion popkultureller Verbreitung mit und am Beispiel des „Popkulturkalenders“.
+
+[Lesung aus dem Manufactum-Katalog](https://soundcloud.com/ig-88-1/es-gibt-sie-noch-die-guten){:target="_blank"} – Eine ironische Lesung aus dem Manufactum-Katalog von 2012.
