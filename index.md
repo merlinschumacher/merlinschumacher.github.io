@@ -18,3 +18,5 @@ title: Merlin Schumacher
 [Lesung aus dem Manufactum-Katalog](https://soundcloud.com/ig-88-1/es-gibt-sie-noch-die-guten){:target="_blank"} – Eine ironische Lesung aus dem Manufactum-Katalog von 2012.
 
 [Get Soundcloud ID](https://www.merlinschumacher.de/get-soundcloud-id/){:target="_blank"} – Ein Werkzeug um die ID von Soundcloud-Seiten, Tracks, Playlisten oder Benutzern zu erhalten.
+
+[e-nr.de](https://e-nr.de){:target="_blank"} – Eine Website zur Identifikation von Lebensmittelzusatzstoffen per HTTP und DNS.
