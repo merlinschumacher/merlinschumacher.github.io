@@ -8,6 +8,6 @@ alt="Ein Foto des Diplom-Kulturwissenschaftlers und c‛t-Redakteurs Merlin Schu
 
 <span class="icon-github-square"></span>[GitHub](https://github.com/merlinschumacher/)
 
-Merlin Schumacher wurde 1983 geboren, verbrachte seine Kindheit und Jugend vor einem Grundig-Fernseher und diversen Computern. Nach diversen ausgeklügelten Schulwechseln die verhinderten, dass er jemals Chemieunterricht hatte, machte er ein mittelmäßiges Abitur und studierte danach viel zu ausführlich Kulturwissenschaften. 2013 schloss er sehr gut als Diplom-Kulturwissenschaftler ab. Seit 2016 ist er Redakteur beim [Computermagazin c't](https://www.ct.de/).
+Merlin Schumacher wurde 1983 geboren, verbrachte seine Kindheit und Jugend vor einem Grundig-Fernseher und diversen Computern. Nach diversen ausgeklügelten Schulwechseln die verhinderten, dass er jemals Chemieunterricht hatte, machte er sein Abitur und studierte danach viel zu ausführlich Kulturwissenschaften. 2013 schloss er sehr gut als Diplom-Kulturwissenschaftler ab. Seit 2016 ist er Redakteur beim [Computermagazin c't](https://www.ct.de/).
 
 <span class="sidenote">Wenn Sie den erfolgreichen Yu-Gi-Oh! Spieler Merlin Schumacher suchen, dann sind Sie hier falsch.</span>
