@@ -11,6 +11,8 @@ title: Merlin Schumacher
 
 [Wake-on-ESP](https://github.com/ct-Open-Source/wake-on-esp){:target="_blank"} – PCs und andere Geräte mittels eines ESP8266 wecken.
 
+[ESP NeoPixel clock](https://github.com/merlinschumacher/esp8266-clock){:target="_blank"} – Software für LED-Wanduhren auf Basis des ESP8266/ESP32-Mikrocontrollers.
+
 [Zebrabutter](https://www.zebrabutter.net){:target="_blank"} – Online-Magazin zu verschiedenen Themen.
 
 [Diplomarbeit – Die Form des Pop](assets/MerlinSchumacher_DieFormdesPop.pdf){:target="_blank"} – Eine Demonstration und Reflexion popkultureller Verbreitung mit und am Beispiel des „Popkulturkalenders“.
