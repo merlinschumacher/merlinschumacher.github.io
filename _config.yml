@@ -1,4 +1,5 @@
 title: Merlin Schumacher
+include: [".well-known"]
 sass:
         sass_dir: _sass
         style: compressed
