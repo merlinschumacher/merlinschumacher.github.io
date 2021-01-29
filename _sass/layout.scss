@@ -31,23 +31,6 @@ body {
 
 
 
-@media only screen and (min-width: 800px) {
-    #frame {
-        width: 90%;
-        grid-template-columns: 30% auto;
-        grid-template-areas:
-            "header header"
-            "sidebar main"
-            "footer footer";
-    }
-}
-
-@media only screen and (min-width: 1200px) {
-    #frame {
-        width: 75%;
-    }
-}
-
 p {
     margin-top: 1.25em;
 }
@@ -56,8 +39,10 @@ p {
     grid-area: header;
 
     h1 {
-        font-size: 2em;
-        margin-bottom: 1em;
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+        letter-spacing: 0.2rem;
+        font-weight: normal;
 
         a {
             text-decoration: none;
@@ -69,14 +54,24 @@ p {
     grid-area: sidebar;
     margin-right: 1em;
     font-size: .9em;
+    hyphens: auto;
 
     p:first-of-type {
         margin-top: 0.5em;
     }
 
-    [class^="icon-"] {
-        margin-right: .5em;
+    p.flex {
+        display: flex;
+        align-items: center;
+        font-size: 1rem;
+
+        .icon {
+            margin-right: .5em;
+            height: 1.5rem;
+            width: auto;
+        }
     }
+
 
     .sidenote {
         color: #666666;
@@ -94,8 +89,18 @@ p {
 
     @for $index from 1 through 6 {
         h#{$index} {
+            font-weight: bold;
             margin-top: 1.25em;
-            margin-bottom: .75em;
+            margin-bottom: 1em;
+            border-bottom: 2px solid currentColor;
+            display: inline-block;
+            line-height: 1;
+            width: 100%;
+            text-shadow:
+                2px 2px white,
+                2px -2px white,
+                -2px 2px white,
+                -2px -2px white;
         }
 
         h#{$index}+p {
@@ -115,6 +120,26 @@ p {
     border-radius: 50%;
     max-width: 100%;
     display: block;
+}
+
+@media only screen and (min-width: 800px) {
+    #frame {
+        width: 90%;
+        grid-template-columns: 30% auto;
+        grid-template-areas:
+            "header header"
+            "sidebar main"
+            "footer footer";
+    }
+    #main {
+        margin-left: 1em;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    #frame {
+        width: 75%;
+    }
 }
 
 @media only screen and (min-width: 400px) {
