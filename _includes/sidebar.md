@@ -1,6 +1,5 @@
 <img id="merlin"
-sizes="(max-width: 399px) 100wv, (max-width: 799px) 60wv, (min-width: 800px) 30wv, 100wvx"
-srcset="assets/images/merlin_schumacher_200.jpg 200w, assets/images/merlin_schumacher_250.jpg 250w, assets/images/merlin_schumacher_380.jpg 380w, assets/images/merlin_schumacher_515.jpg 515w, assets/images/merlin_schumacher_600.jpg 600w, assets/images/merlin_schumacher_629.jpg 629w, assets/images/merlin_schumacher_733.jpg 733w, assets/images/merlin_schumacher_827.jpg 827w, assets/images/merlin_schumacher_910.jpg 910w, assets/images/merlin_schumacher.jpg 1362w" src="assets/images/merlin_schumacher.jpg" 
+ src="https://avatars.githubusercontent.com/u/7475989?v=4" 
 alt="Ein Foto des Diplom-Kulturwissenschaftlers und c‛t-Redakteurs Merlin Schumacher">
 
 {:.flex}
